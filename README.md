@@ -18,6 +18,9 @@ I might have tossed up a few materials here and there, from other places which I
     1.  [Loops](./code/01-python-fundamentals/05-loops.ipynb)
     1.  [Functions](./code/01-python-fundamentals/06-functions.ipynb)
     1.  [Classes and Objects](./code/01-python-fundamentals/07-classes-and-objects.ipynb)
+1.  [Data Visualization with MatPlotLib](./code/02-data-visualization-with-python-and-matplotlib/00-index.ipynb)
+    1.  [Intro to PyPlot](./code/02-data-visualization-with-python-and-matplotlib/01-intro-to-pyplot.ipynb)
+    1.  [Installing PyPlot](./code/02-data-visualization-with-python-and-matplotlib/02-installing-pyplot.ipynb)
 
 ---
 
