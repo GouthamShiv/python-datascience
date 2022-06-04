@@ -36,7 +36,7 @@ I might have tossed up a few materials here and there, from other places which I
         -   [Pandas Data Structures](./code/03-data-analysis-with-pandas/01-intro-to-pandas.ipynb)
         -   [What are some of the applications of Pandas?](./code/03-data-analysis-with-pandas/01-intro-to-pandas.ipynb)
         -   [Why learn Pandas?](./code/03-data-analysis-with-pandas/01-intro-to-pandas.ipynb)
-    -   [Installing and importing Pandas]()
+    -   [Installing and importing Pandas](./code/03-data-analysis-with-pandas/02-installing-pandas.ipynb)
     -   [Creating Pandas Series]()
     -   [Getting elements from Series]()
     -   [Getting properties from Series]()
