@@ -30,6 +30,7 @@ I might have tossed up a few materials here and there, from other places which I
         -   [Pie Chart](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
         -   [Histogram](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
     -   [3D Graphs](./code/02-data-visualization-with-python-and-matplotlib/06-3d-graphs.ipynb)
+1.  [Data Analysis with Pandas](./code/03-data-analysis-with-pandas/00-index.ipynb)
 
 ---
 
