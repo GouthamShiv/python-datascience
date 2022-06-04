@@ -21,11 +21,13 @@ I might have tossed up a few materials here and there, from other places which I
 1.  [Data Visualization with MatPlotLib](./code/02-data-visualization-with-python-and-matplotlib/00-index.ipynb)
     -   [Intro to PyPlot](./code/02-data-visualization-with-python-and-matplotlib/01-intro-to-pyplot.ipynb)
     -   [Installing PyPlot](./code/02-data-visualization-with-python-and-matplotlib/02-installing-pyplot.ipynb)
-    -   [Graphing some data](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
-        -   [Basic Line Plot](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
-        -   [Customizing a graph](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
-    -   [Showing multiple graphs](./02-data-visualization-with-python-and-matplotlib/04-multiple-graphs.ipynb)
-    -   [Different kinds of graphs](./02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
+    -   [Graphing some data](./code/02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+        -   [Basic Line Plot](./code/02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+        -   [Customizing a graph](./code/02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+    -   [Showing multiple graphs](./code/02-data-visualization-with-python-and-matplotlib/04-multiple-graphs.ipynb)
+    -   [Different kinds of graphs](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
+        -   [Bar Chart](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
+        -   [Pie Chart](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
 
 ---
 
