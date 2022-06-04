@@ -28,6 +28,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Different kinds of graphs](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
         -   [Bar Chart](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
         -   [Pie Chart](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
+        -   [Histogram](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
 
 ---
 
