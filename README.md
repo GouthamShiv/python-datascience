@@ -11,16 +11,21 @@ I might have tossed up a few materials here and there, from other places which I
 ## Course Index
 
 1.  [Python Basics](./code/01-python-fundamentals/00-index.ipynb)
-    1.  [Variables](./code/01-python-fundamentals/01-variables.ipynb)
-    1.  [Operators](./code/01-python-fundamentals/02-operators.ipynb)
-    1.  [Collections](./code/01-python-fundamentals/03-collections.ipynb)
-    1.  [Conditions](./code/01-python-fundamentals/04-conditions.ipynb)
-    1.  [Loops](./code/01-python-fundamentals/05-loops.ipynb)
-    1.  [Functions](./code/01-python-fundamentals/06-functions.ipynb)
-    1.  [Classes and Objects](./code/01-python-fundamentals/07-classes-and-objects.ipynb)
+    -   [Variables](./code/01-python-fundamentals/01-variables.ipynb)
+    -   [Operators](./code/01-python-fundamentals/02-operators.ipynb)
+    -   [Collections](./code/01-python-fundamentals/03-collections.ipynb)
+    -   [Conditions](./code/01-python-fundamentals/04-conditions.ipynb)
+    -   [Loops](./code/01-python-fundamentals/05-loops.ipynb)
+    -   [Functions](./code/01-python-fundamentals/06-functions.ipynb)
+    -   [Classes and Objects](./code/01-python-fundamentals/07-classes-and-objects.ipynb)
 1.  [Data Visualization with MatPlotLib](./code/02-data-visualization-with-python-and-matplotlib/00-index.ipynb)
-    1.  [Intro to PyPlot](./code/02-data-visualization-with-python-and-matplotlib/01-intro-to-pyplot.ipynb)
-    1.  [Installing PyPlot](./code/02-data-visualization-with-python-and-matplotlib/02-installing-pyplot.ipynb)
+    -   [Intro to PyPlot](./code/02-data-visualization-with-python-and-matplotlib/01-intro-to-pyplot.ipynb)
+    -   [Installing PyPlot](./code/02-data-visualization-with-python-and-matplotlib/02-installing-pyplot.ipynb)
+    -   [Graphing some data](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+        -   [Basic Line Plot](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+        -   [Customizing a graph](./02-data-visualization-with-python-and-matplotlib/03-graphing-data.ipynb)
+    -   [Showing multiple graphs](./02-data-visualization-with-python-and-matplotlib/04-multiple-graphs.ipynb)
+    -   [Different kinds of graphs](./02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
 
 ---
 
