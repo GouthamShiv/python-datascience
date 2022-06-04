@@ -8,6 +8,10 @@ This so called **project**, is actually all the learnings that I have managed to
 
 I might have tossed up a few materials here and there, from other places which I found to be useful related to `Python` that are not covered as part of the above mentioned course.
 
+## Access this REPO in **Jupyter Notebook** Style
+
+[nbviewer.org GouthamShiv/python-datascience](https://nbviewer.org/github/GouthamShiv/python-datascience/blob/master/code/index.ipynb)
+
 ## Course Index
 
 1.  [Python Basics](./code/01-python-fundamentals/00-index.ipynb)
