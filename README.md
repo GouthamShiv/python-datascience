@@ -49,7 +49,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Getting elements from Series](./code/03-data-analysis-with-pandas/04-getting-elements-from-series.ipynb)
     -   [Getting properties from Series](./code/03-data-analysis-with-pandas/05-getting-properties-from-series.ipynb)
     -   [Modifying Series](./code/03-data-analysis-with-pandas/06-pandas-series-modification.ipynb)
-    -   [Series operations]()
+    -   [Series operations](./code/03-data-analysis-with-pandas/07-pandas-series-operations.ipynb)
     -   [Series comparisons and iteration]()
     -   [Creating Pandas DataFrames]()
     -   [Getting elements from DataFrames]()
