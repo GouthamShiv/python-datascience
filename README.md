@@ -45,6 +45,7 @@ I might have tossed up a few materials here and there, from other places which I
         -   [Creating Pandas Series - With list](./code/03-data-analysis-with-pandas/03A-pandas-series-with-list.ipynb)
         -   [Creating Pandas Series - With dictionary](./code/03-data-analysis-with-pandas/03B-pandas-series-with-dictionary.ipynb)
         -   [Creating Pandas Series - with NumPy arrays](./code/03-data-analysis-with-pandas/03C-pandas-series-with-numpy-arrays.ipynb)
+        -   [Creating Pandas Series - Date Ranges](./code/03-data-analysis-with-pandas/03C-pandas-series-with-numpy-arrays.ipynb)
     -   [Getting elements from Series]()
     -   [Getting properties from Series]()
     -   [Modifying Series]()
