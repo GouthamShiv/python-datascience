@@ -52,7 +52,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Series operations](./code/03-data-analysis-with-pandas/07-pandas-series-operations.ipynb)
     -   [Series comparisons and iteration](./code/03-data-analysis-with-pandas/08-compare-and-iterate-series.ipynb)
     -   [Creating Pandas DataFrames](./code/03-data-analysis-with-pandas/09-pandas-dataframes.ipynb)
-        -   [Creating DataFrames from Python lists]()
+        -   [Creating DataFrames from Python lists](./code/03-data-analysis-with-pandas/09A-dataframes-from-lists.ipynb)
         -   [Creating DataFrames from Dictionaries]()
         -   [Creating DataFrames from Pandas Series]()
     -   [Getting elements from DataFrames]()
