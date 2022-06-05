@@ -50,7 +50,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Getting properties from Series](./code/03-data-analysis-with-pandas/05-getting-properties-from-series.ipynb)
     -   [Modifying Series](./code/03-data-analysis-with-pandas/06-pandas-series-modification.ipynb)
     -   [Series operations](./code/03-data-analysis-with-pandas/07-pandas-series-operations.ipynb)
-    -   [Series comparisons and iteration]()
+    -   [Series comparisons and iteration](./code/03-data-analysis-with-pandas/08-compare-and-iterate-series.ipynb)
     -   [Creating Pandas DataFrames]()
     -   [Getting elements from DataFrames]()
     -   [Getting properties from DataFrames]()
