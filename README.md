@@ -65,7 +65,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Getting DataFrames elements based on rows](./code/03-data-analysis-with-pandas/10B-row-elements-from-dataframe.ipynb)
     -   [Getting individual elements from DataFrames](./code/03-data-analysis-with-pandas/10C-getting-individual-elements-dataframes.ipynb)
     -   [Slicing DataFrame columns and rows](./code/03-data-analysis-with-pandas/10D-slicing-dataframes.ipynb)
-    -   [Getting DataFrame elements based on booleans]()
+    -   [Getting DataFrame elements based on booleans](./code/03-data-analysis-with-pandas/10E-dataframe-elements-basedon-boolean.ipynb)
 -   [Getting properties from DataFrames]()
 -   [Modifying DataFrames]()
 -   [DataFrames operations]()
