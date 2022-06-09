@@ -12,6 +12,9 @@ I might have tossed up a few materials here and there, from other places which I
 
 [nbviewer.org GouthamShiv/python-datascience](https://nbviewer.org/github/GouthamShiv/python-datascience/blob/master/code/index.ipynb)
 
+![Jupyter Notebook - Preview](./assets/python-datascience.png)
+![Jupyter Notebook - Histograms](./assets/py-ds-histograms.png)
+
 ## Course Index
 
 > **[1 - Python Basics](./code/01-python-fundamentals/00-index.ipynb)**
