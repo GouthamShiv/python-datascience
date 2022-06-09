@@ -77,6 +77,15 @@ I might have tossed up a few materials here and there, from other places which I
 
 > **[4 - Data Mining with Python](./code/04-python-data-mining/00-index.ipynb)**
 
+-   `Data Wrangling`
+    -   [Cleaning Data](./code/04-python-data-mining/01-cleaning-data.ipynb)
+        -   Filtering out noise
+        -   Making data available for analysis
+    -   [What is statistics]()
+        -   Simple Statistics
+    -   [Practical example of **`data mining`**]()
+    -   [Dataset Examples]()
+
 ---
 
 [next](./code/01-python-fundamentals/00-index.ipynb)
