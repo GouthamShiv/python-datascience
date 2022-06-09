@@ -71,7 +71,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Getting DataFrame elements based on booleans](./code/03-data-analysis-with-pandas/10E-dataframe-elements-basedon-boolean.ipynb)
 -   [Getting properties from DataFrames](./code/03-data-analysis-with-pandas/11-dataframe-properties.ipynb)
 -   [Modifying DataFrames](./code/03-data-analysis-with-pandas/12-dataframe-modification.ipynb)
--   [DataFrames operations]()
+-   [DataFrames operations](./code/03-data-analysis-with-pandas/13-dataframe-operations.ipynb)
 -   [DataFrames comparisons and iteration]()
 -   [Reading CSVs into DataFrames]()
 
