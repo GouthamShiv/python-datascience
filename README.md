@@ -72,7 +72,7 @@ I might have tossed up a few materials here and there, from other places which I
 -   [Getting properties from DataFrames](./code/03-data-analysis-with-pandas/11-dataframe-properties.ipynb)
 -   [Modifying DataFrames](./code/03-data-analysis-with-pandas/12-dataframe-modification.ipynb)
 -   [DataFrames operations](./code/03-data-analysis-with-pandas/13-dataframe-operations.ipynb)
--   [DataFrames comparisons and iteration]()
+-   [DataFrames comparisons and iteration](./code/03-data-analysis-with-pandas/14-dataframe-comparisons-and-iterations.ipynb)
 -   [Reading CSVs into DataFrames]()
 
 ---
