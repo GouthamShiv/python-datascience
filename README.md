@@ -77,7 +77,7 @@ I might have tossed up a few materials here and there, from other places which I
 
 > **[4 - Data Mining with Python](./code/04-python-data-mining/00-index.ipynb)**
 
--   `Data Wrangling`
+-   [**`Data Wrangling`**](./code/04-python-data-mining/00-index.ipynb)
     -   [Cleaning Data](./code/04-python-data-mining/01-cleaning-data.ipynb)
         -   Filtering out noise
         -   Making data available for analysis
@@ -85,6 +85,11 @@ I might have tossed up a few materials here and there, from other places which I
         -   Simple Statistics
     -   [Practical example of **`data mining`**](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
     -   [Dataset Examples](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
+-   [**`Data Mining Fundamentals`**](./code/04-python-data-mining/00-index.ipynb)
+    -   [Cluster Analysis]()
+    -   [Classification and Regression]()
+    -   [Association and Correlation]()
+    -   [Dimensionality Reduction]()
 
 ---
 
