@@ -81,7 +81,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Cleaning Data](./code/04-python-data-mining/01-cleaning-data.ipynb)
         -   Filtering out noise
         -   Making data available for analysis
-    -   [What is statistics]()
+    -   [Statistics](./code/04-python-data-mining/01-cleaning-data.ipynb)
         -   Simple Statistics
     -   [Practical example of **`data mining`**]()
     -   [Dataset Examples]()
