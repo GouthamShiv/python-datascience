@@ -83,8 +83,8 @@ I might have tossed up a few materials here and there, from other places which I
         -   Making data available for analysis
     -   [Statistics](./code/04-python-data-mining/01-cleaning-data.ipynb)
         -   Simple Statistics
-    -   [Practical example of **`data mining`**]()
-    -   [Dataset Examples]()
+    -   [Practical example of **`data mining`**](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
+    -   [Dataset Examples](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
 
 ---
 
