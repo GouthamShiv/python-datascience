@@ -86,8 +86,11 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Practical example of **`data mining`**](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
     -   [Dataset Examples](./code/04-python-data-mining/02-practical-datamining-example.ipynb)
 -   [**`Data Mining Fundamentals`**](./code/04-python-data-mining/00-index.ipynb)
-    -   [Cluster Analysis]()
-    -   [Classification and Regression]()
+    -   [Cluster Analysis](./code/04-python-data-mining/03A-cluster-analysis.ipynb)
+    -   [Classification and Regression](./code/04-python-data-mining/03B-classification-and-regression.ipynb)
+        -   **LinearRegression** and **LogisticRegression**
+        -   **Support Vector Classifier** and **Support Vector Regressor**
+        -   **KNeighborsClassifier** and **KNeighborsRegressor**
     -   [Association and Correlation]()
     -   [Dimensionality Reduction]()
 
