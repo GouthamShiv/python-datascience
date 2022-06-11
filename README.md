@@ -91,7 +91,7 @@ I might have tossed up a few materials here and there, from other places which I
         -   **LinearRegression** and **LogisticRegression**
         -   **Support Vector Classifier** and **Support Vector Regressor**
         -   **KNeighborsClassifier** and **KNeighborsRegressor**
-    -   [Association and Correlation]()
+    -   [Association and Correlation](./code/04-python-data-mining/03C-association-and-correlation.ipynb)
     -   [Dimensionality Reduction]()
 
 ---
