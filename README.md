@@ -92,7 +92,14 @@ I might have tossed up a few materials here and there, from other places which I
         -   **Support Vector Classifier** and **Support Vector Regressor**
         -   **KNeighborsClassifier** and **KNeighborsRegressor**
     -   [Association and Correlation](./code/04-python-data-mining/03C-association-and-correlation.ipynb)
-    -   [Dimensionality Reduction]()
+    -   [Dimensionality Reduction](./code/04-python-data-mining/03D-dimensionality-reduction.ipynb)
+
+> **[5 - Big Data with Apache Spark](./code/05-big-data-with-spark/00-index.ipynb)**
+
+-   [Apache Spark - Framework Overview]()
+-   [Apache Spark - Key Functions]()
+-   [Apache Spark - Machine Learning]()
+-   [Examples - Using Machine Learning Pipelines]()
 
 ---
 
