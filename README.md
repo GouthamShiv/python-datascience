@@ -97,7 +97,7 @@ I might have tossed up a few materials here and there, from other places which I
 > **[5 - Big Data with Apache Spark](./code/05-big-data-with-spark/00-index.ipynb)**
 
 -   [Apache Spark - Framework Overview](./code/05-big-data-with-spark/01-spark-overview.ipynb)
--   [Apache Spark - Key Functions]()
+-   [Apache Spark - Key Functions](./code/05-big-data-with-spark/02-spark-key-functions.ipynb)
 -   [Apache Spark - Machine Learning]()
 -   [Examples - Using Machine Learning Pipelines]()
 
