@@ -99,7 +99,14 @@ I might have tossed up a few materials here and there, from other places which I
 -   [Apache Spark - Framework Overview](./code/05-big-data-with-spark/01-spark-overview.ipynb)
 -   [Apache Spark - Key Functions](./code/05-big-data-with-spark/02-spark-key-functions.ipynb)
 -   [Apache Spark - Machine Learning](./code/05-big-data-with-spark/03-spark-ml-intro.ipynb)
--   [Examples - Using Machine Learning Pipelines]()
+-   [Examples - Using Machine Learning Pipelines](./code/05-big-data-with-spark/03-spark-ml-intro.ipynb)
+
+> **[6 - Mining and Storing Data](./code/06-mining-and-storing-data/00-index.ipynb)**
+
+-   [Text Mining]()
+-   [Network Mining]()
+-   [Python Matrix library]()
+-   [Mining a SQL-database]()
 
 ---
 
