@@ -103,7 +103,7 @@ I might have tossed up a few materials here and there, from other places which I
 
 > **[6 - Mining and Storing Data](./code/06-mining-and-storing-data/00-index.ipynb)**
 
--   [Text Mining]()
+-   [Text Mining](./code/06-mining-and-storing-data/01-text-mining.ipynb)
 -   [Network Mining]()
 -   [Python Matrix library]()
 -   [Mining a SQL-database]()
