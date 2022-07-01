@@ -106,7 +106,7 @@ I might have tossed up a few materials here and there, from other places which I
 -   [Text Mining](./code/06-mining-and-storing-data/01-text-mining.ipynb)
 -   [Network Mining](./code/06-mining-and-storing-data/02-network-mining.ipynb)
 -   [Python Matrix library](./code/06-mining-and-storing-data/03-matrix-mining.ipynb)
--   [Mining a SQL-database]()
+-   [Mining a SQL-database](./code/06-mining-and-storing-data/04-sql-mining.ipynb)
 
 ---
 
