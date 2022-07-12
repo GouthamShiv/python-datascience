@@ -108,6 +108,12 @@ I might have tossed up a few materials here and there, from other places which I
 -   [Python Matrix library](./code/06-mining-and-storing-data/03-matrix-mining.ipynb)
 -   [Mining a SQL-database](./code/06-mining-and-storing-data/04-sql-mining.ipynb)
 
+> **[7 - Natural Language Processing](./code/07-natural-language-processing/00-index.ipynb)**
+
+-   [NLP Data Cleaning](./code/07-natural-language-processing/01-nlp-data-cleaning.ipynb)
+-   [Count Vectorizer, TFIDF]()
+-   [NLP Example with Spam]()
+
 ---
 
 [next](./code/01-python-fundamentals/00-index.ipynb)
