@@ -112,7 +112,7 @@ I might have tossed up a few materials here and there, from other places which I
 
 -   [NLP Data Cleaning](./code/07-natural-language-processing/01-nlp-data-cleaning.ipynb)
 -   [Count Vectorizer, TFIDF](./code/07-natural-language-processing/02-count-vectorization-and-tfidf.ipynb)
--   [NLP Example with Spam]()
+-   [NLP Example with Spam](./code/07-natural-language-processing/03-nlp-example-with-spam.ipynb)
 
 ---
 
