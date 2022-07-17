@@ -17,7 +17,7 @@ I might have tossed up a few materials here and there, from other places which I
 
 ## Course Index
 
-> **[1 - Python Basics](./code/01-python-fundamentals/00-index.ipynb)**
+> **[01 - Python Basics](./code/01-python-fundamentals/00-index.ipynb)**
 
 -   [Variables](./code/01-python-fundamentals/01-variables.ipynb)
 -   [Operators](./code/01-python-fundamentals/02-operators.ipynb)
@@ -27,7 +27,7 @@ I might have tossed up a few materials here and there, from other places which I
 -   [Functions](./code/01-python-fundamentals/06-functions.ipynb)
 -   [Classes and Objects](./code/01-python-fundamentals/07-classes-and-objects.ipynb)
 
-> **[2 - Data Visualization with MatPlotLib](./code/02-data-visualization-with-python-and-matplotlib/00-index.ipynb)**
+> **[02 - Data Visualization with MatPlotLib](./code/02-data-visualization-with-python-and-matplotlib/00-index.ipynb)**
 
 -   [Intro to PyPlot](./code/02-data-visualization-with-python-and-matplotlib/01-intro-to-pyplot.ipynb)
 -   [Installing PyPlot](./code/02-data-visualization-with-python-and-matplotlib/02-installing-pyplot.ipynb)
@@ -41,7 +41,7 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Histogram](./code/02-data-visualization-with-python-and-matplotlib/05-different-kinds-of-graphs.ipynb)
 -   [3D Graphs](./code/02-data-visualization-with-python-and-matplotlib/06-3d-graphs.ipynb)
 
-> **[3 - Data Analysis with Pandas](./code/03-data-analysis-with-pandas/00-index.ipynb)**
+> **[03 - Data Analysis with Pandas](./code/03-data-analysis-with-pandas/00-index.ipynb)**
 
 -   [Intro to Pandas](./code/03-data-analysis-with-pandas/01-intro-to-pandas.ipynb)
     -   [What is Pandas?](./code/03-data-analysis-with-pandas/01-intro-to-pandas.ipynb)
@@ -75,7 +75,7 @@ I might have tossed up a few materials here and there, from other places which I
 -   [DataFrames comparisons and iteration](./code/03-data-analysis-with-pandas/14-dataframe-comparisons-and-iterations.ipynb)
 -   [Reading CSVs into DataFrames](./code/03-data-analysis-with-pandas/15-reading-csv-into-dataframe.ipynb)
 
-> **[4 - Data Mining with Python](./code/04-python-data-mining/00-index.ipynb)**
+> **[04 - Data Mining with Python](./code/04-python-data-mining/00-index.ipynb)**
 
 -   [**`Data Wrangling`**](./code/04-python-data-mining/00-index.ipynb)
     -   [Cleaning Data](./code/04-python-data-mining/01-cleaning-data.ipynb)
@@ -94,27 +94,29 @@ I might have tossed up a few materials here and there, from other places which I
     -   [Association and Correlation](./code/04-python-data-mining/03C-association-and-correlation.ipynb)
     -   [Dimensionality Reduction](./code/04-python-data-mining/03D-dimensionality-reduction.ipynb)
 
-> **[5 - Big Data with Apache Spark](./code/05-big-data-with-spark/00-index.ipynb)**
+> **[05 - Big Data with Apache Spark](./code/05-big-data-with-spark/00-index.ipynb)**
 
 -   [Apache Spark - Framework Overview](./code/05-big-data-with-spark/01-spark-overview.ipynb)
 -   [Apache Spark - Key Functions](./code/05-big-data-with-spark/02-spark-key-functions.ipynb)
 -   [Apache Spark - Machine Learning](./code/05-big-data-with-spark/03-spark-ml-intro.ipynb)
 -   [Examples - Using Machine Learning Pipelines](./code/05-big-data-with-spark/03-spark-ml-intro.ipynb)
 
-> **[6 - Mining and Storing Data](./code/06-mining-and-storing-data/00-index.ipynb)**
+> **[06 - Mining and Storing Data](./code/06-mining-and-storing-data/00-index.ipynb)**
 
 -   [Text Mining](./code/06-mining-and-storing-data/01-text-mining.ipynb)
 -   [Network Mining](./code/06-mining-and-storing-data/02-network-mining.ipynb)
 -   [Python Matrix library](./code/06-mining-and-storing-data/03-matrix-mining.ipynb)
 -   [Mining a SQL-database](./code/06-mining-and-storing-data/04-sql-mining.ipynb)
 
-> **[7 - Natural Language Processing](./code/07-natural-language-processing/00-index.ipynb)**
+> **[07 - Natural Language Processing](./code/07-natural-language-processing/00-index.ipynb)**
 
 -   [NLP Data Cleaning](./code/07-natural-language-processing/01-nlp-data-cleaning.ipynb)
 -   [Count Vectorizer, TFIDF](./code/07-natural-language-processing/02-count-vectorization-and-tfidf.ipynb)
 -   [NLP Example with Spam](./code/07-natural-language-processing/03-nlp-example-with-spam.ipynb)
 -   [Tweak model with Spam data](./code/07-natural-language-processing/04-tweak-nlp-model.ipynb)
 -   [Pipeline with Spam data](./code/07-natural-language-processing/05-pipeline-with-spam-data.ipynb)
+
+> **[08 - PySpark - Building DataFrames with Python, Apache Spark and SQL](./code/08-pyspark-df-sql/00-index.ipynb)**
 
 ---
 
